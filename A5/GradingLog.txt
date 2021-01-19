@@ -1,0 +1,57 @@
+Found hash.c
+Compiling
+Found hash.o
+Compilation generated errors:
+hash.c: In function ‘getIdx’:
+hash.c:111:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+
+Compiling and linking gradeA5_newPerformance
+Found gradeA5_newPerformance
+Compilation succeeded
+newPerformance passed
+Compiling and linking gradeA5_createTable
+Found gradeA5_createTable
+Compilation succeeded
+createTable passed
+Compiling and linking gradeA5_addElement
+Found gradeA5_addElement
+Compilation succeeded
+addElement passed
+addElement passed
+addElement passed
+Compiling and linking gradeA5_getIdx
+Found gradeA5_getIdx
+Compilation succeeded
+getIdx passed
+getIdx passed
+getIdx passed
+getIdx passed
+Compiling and linking gradeA5_getElement
+Found gradeA5_getElement
+Compilation succeeded
+getElement passed
+Compiling and linking gradeA5_removeElement
+Found gradeA5_removeElement
+Compilation succeeded
+removeElement passed
+Compiling and linking gradeA5_freeTable
+Found gradeA5_freeTable
+Compilation succeeded
+freeTable passed
+Compiling and linking gradeA5_hashAccuracy
+Found gradeA5_hashAccuracy
+Compilation succeeded
+hashAccuracy passed
+hashAccuracy passed
+Compiling and linking gradeA5_rehash
+Found gradeA5_rehash
+Compilation succeeded
+rehash passed
+rehash passed
+Found makefile
+Correct options
+Comments
+Indentation levels are: ['', '    ', '        ', '            ', '                ']
+Assignment submitted by socs <socs@socsvm.local> at: Wed Nov 4 19:29:42 2020

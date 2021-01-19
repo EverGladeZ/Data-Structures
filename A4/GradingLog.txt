@@ -1,0 +1,59 @@
+Found tree.c
+Compiling
+Found tree.o
+Compilation succeeded
+Compiling and linking gradeA4_newPerformance
+Found gradeA4_newPerformance
+Compilation succeeded
+newPerformance passed
+Compiling and linking gradeA4_attachNode
+Found gradeA4_attachNode
+Compilation succeeded
+attachNode passed
+attachNode passed
+attachNode passed
+Compiling and linking gradeA4_comparNode
+Found gradeA4_comparNode
+Compilation succeeded
+comparNode passed
+comparNode passed
+Compiling and linking gradeA4_next
+Found gradeA4_next
+Compilation succeeded
+next passed
+next passed
+Compiling and linking gradeA4_readNode
+Found gradeA4_readNode
+Compilation succeeded
+readNode passed
+readNode passed
+Compiling and linking gradeA4_detachNode
+Found gradeA4_detachNode
+Compilation succeeded
+detachNode failed
+  ''!='0:1:1:1\n'
+detachNode failed
+  ''!='0:1:1:1\n'
+Compiling and linking gradeA4_addItem
+Found gradeA4_addItem
+Compilation succeeded
+addItem passed
+addItem passed
+Compiling and linking gradeA4_freeTree
+Found gradeA4_freeTree
+Compilation succeeded
+freeTree passed
+freeTree passed
+Compiling and linking gradeA4_searchItem
+Found gradeA4_searchItem
+Compilation succeeded
+searchItem passed
+searchItem passed
+searchItem passed
+searchItem passed
+searchItem passed
+Found makefile
+Correct options
+Comments
+Indentation levels are: ['', '    ', '        ', '            ']
+Assignment submitted by socs <socs@socsvm.local> at: Tue Oct 27 22:43:25 2020

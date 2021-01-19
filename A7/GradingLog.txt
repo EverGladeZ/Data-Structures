@@ -1,0 +1,94 @@
+Found ttt2.c
+Compiling
+Found ttt2.o
+Compilation succeeded
+Compiling and linking gradeA7_init
+Found gradeA7_init
+Compilation succeeded
+init 1 passed
+init 2 passed
+init 3 passed
+init 4 passed
+Compiling and linking gradeA7_turn
+Found gradeA7_turn
+Compilation succeeded
+turn 1 passed
+turn 2 passed
+turn 3 passed
+turn 4 passed
+Compiling and linking gradeA7_depth
+Found gradeA7_depth
+Compilation succeeded
+depth 1 passed
+depth 2 passed
+depth 3 passed
+depth 4 passed
+dpeth 5 passed
+depth 6 passed
+depth 7 passed
+depth 8 passed
+Compiling and linking gradeA7_board
+Found gradeA7_board
+Compilation succeeded
+board 0 passed
+board 162 passed
+board 163 passed
+board 649 passed
+board 676 passed
+board 2134 passed
+board 2143 passed
+board 2149 passed
+Compiling and linking gradeA7_winner
+Found gradeA7_winner
+Compilation succeeded
+winner 1 passed
+winner 2 passed
+winner 3 passed
+winner 4 passed
+winner 5 passed
+winner 6 passed
+winner 7 passed
+winner 8 passed
+Compiling and linking gradeA7_moves
+Found gradeA7_moves
+Compilation succeeded
+moves 1 passed
+moves 2 passed
+moves 3 passed
+moves 4 passed
+moves 5 passed
+moves 6 passed
+moves 7 passed
+moves 8 passed
+moves 9 passed
+moves 10 passed
+moves 11 passed
+moves 12 passed
+moves 13 passed
+moves 14 passed
+moves 15 passed
+moves 16 passed
+Compiling and linking gradeA7_score
+Found gradeA7_score
+Compilation succeeded
+score 1 passed
+score 2 passed
+score 3 passed
+score 4 passed
+score 5 passed
+score 6 passed
+score 7 passed
+score 8 passed
+Compiling and linking gradeA7_alphatoe
+Found gradeA7_alphatoe
+Compilation succeeded
+alphatoe 1 passed
+alphatoe 2 passed
+alphatoe 3 passed
+alphatoe 4 passed
+alphatoe 5 passed
+Found makefile
+Correct options
+Comments
+Indentation levels are: ['', '   ', '    ', '        ', '            ', '                ', '                    ', '                        ', '                            ', '                                ', '                                    ', '                                        ']
+Assignment submitted by socs <socs@socsvm.local> at: Wed Nov 25 14:36:15 2020

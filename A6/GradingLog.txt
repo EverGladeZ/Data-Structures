@@ -1,0 +1,70 @@
+Compiling all executables
+    Found buildidx
+    Found key2val
+    Found val2key
+    Found actors
+    Found bacon1
+Compilation generated errors:
+actors.c: In function ‘valToKey’:
+actors.c:44:9: warning: variable ‘found’ set but not used [-Wunused-but-set-variable]
+     int found = 0;
+         ^~~~~
+actors.c: In function ‘keyToVal’:
+actors.c:81:9: warning: variable ‘found’ set but not used [-Wunused-but-set-variable]
+     int found = 0;
+         ^~~~~
+bacon1.c: In function ‘valToKey’:
+bacon1.c:64:9: warning: variable ‘found’ set but not used [-Wunused-but-set-variable]
+     int found = 0;
+         ^~~~~
+bacon1.c: In function ‘keyToVal’:
+bacon1.c:101:9: warning: variable ‘found’ set but not used [-Wunused-but-set-variable]
+     int found = 0;
+         ^~~~~
+
+Building indexes
+    ./buildidx tb.kv 10000
+    Found tb.khs
+    Found tb.vhs
+    ./buildidx nb.kv 10000
+    Found nb.khs
+    Found nb.vhs
+    ./buildidx tp.kv 10000
+    Found tp.khs
+    Found tp.vhs
+Compiling and linking gradeA6_buildidx
+Found gradeA6_buildidx
+Compilation succeeded
+buildidx nb.khs 3383 passed
+buildidx nb.vhs 1274 passed
+buildidx nb.khs 3384 passed
+buildidx nb.vhs 2559 passed
+buildidx tb.khs 8661 passed
+buildidx tb.vhs 1152 passed
+buildidx tp.khs 8102 passed
+buildidx bp.vhs 294 passed
+Compiling and linking key2val
+Found key2val
+Compilation succeeded
+key2val nb.kv nm0000102 passed
+key2val tb.kv tt0100814 passed
+Compiling and linking val2key
+Found val2key
+Compilation succeeded
+val2key nb.kv 'Demi Moore' passed
+val2key tb.kv 'A Few Good Men' passed
+Compiling and linking actors
+Found actors
+Compilation succeeded
+actors Tremors = Gross passed
+actors Tremors = Ward passed
+Compiling and linking bacon1
+Found bacon1
+Compilation succeeded
+bacon1 'Michael Gross' passed
+bacon1 'Steve Golin' passed
+Found makefile
+Incorrect options
+Comments
+Indentation levels are: ['', '    ', '        ', '            ', '                ']
+Assignment submitted by Jakub Wozniak <jakub@uoguelph.ca> at: Tue Nov 17 23:07:13 2020

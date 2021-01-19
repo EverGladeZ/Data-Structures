@@ -1,0 +1,66 @@
+Found array.c
+Compiling
+Found array.o
+Compilation succeeded
+Compiling and linking grade_newPerformance
+Found grade_newPerformance
+Compilation succeeded
+newPerformance passed
+Compiling and linking grade_newArray
+Found grade_newArray
+Compilation succeeded
+newArray passed
+Compiling and linking grade_contract
+Found grade_contract
+Compilation succeeded
+contract passed
+contract (books) passed
+Compiling and linking grade_freeArray
+Found grade_freeArray
+Compilation succeeded
+freeArray + mem check passed
+Compiling and linking grade_readItem
+Found grade_readItem
+Compilation succeeded
+readItem (car list) passed
+readItem (book list) passed
+Compiling and linking grade_writeItem
+Found grade_writeItem
+Compilation succeeded
+writeItem (car list) passed
+writeItem (book list) passed
+Compiling and linking grade_prependItem
+Found grade_prependItem
+Compilation succeeded
+prependItem (car list) passed
+prependItem (book list) passed
+Compiling and linking grade_appendItem
+Found grade_appendItem
+Compilation succeeded
+appendItem (car list) passed
+appendItem (book list) passed
+Compiling and linking grade_insertItem
+Found grade_insertItem
+Compilation succeeded
+insertItem (car list) passed
+insertItem (book list) passed
+Compiling and linking grade_deleteItem
+Found grade_deleteItem
+Compilation succeeded
+deleteItem (car list) passed
+deleteItem (book list) passed
+Compiling and linking grade_findItem
+Found grade_findItem
+Compilation succeeded
+findItem (car list) passed
+findItem (book list) passed
+Compiling and linking grade_searchItem
+Found grade_searchItem
+Compilation succeeded
+searchItem (car list) passed
+searchItem (book list) passed
+Found makefile
+Correct options
+Comments
+Indentation levels are: ['', '    ', '        ', '            ', '                ']
+Assignment submitted by socs <socs@socsvm.local> at: Tue Sep 29 22:53:19 2020

@@ -1,0 +1,84 @@
+Found list.c
+Compiling
+Found list.o
+Compilation generated errors:
+list.c: In function ‘appendItem’:
+list.c:126:19: warning: unused variable ‘temp’ [-Wunused-variable]
+     struct Node **temp;
+                   ^~~~
+list.c: In function ‘deleteItem’:
+list.c:164:19: warning: unused variable ‘temp’ [-Wunused-variable]
+     struct Node **temp;
+                   ^~~~
+list.c: In function ‘findItem’:
+list.c:178:18: warning: unused variable ‘temp_ptr’ [-Wunused-variable]
+     struct Node *temp_ptr;
+                  ^~~~~~~~
+list.c:177:19: warning: unused variable ‘temp’ [-Wunused-variable]
+     struct Node **temp;
+                   ^~~~
+
+Compiling and linking gradeA3_newPerformance
+Found gradeA3_newPerformance
+Compilation succeeded
+newPerformance passed
+Compiling and linking gradeA3_push
+Found gradeA3_push
+Compilation succeeded
+push passed
+push passed
+Compiling and linking gradeA3_readHead
+Found gradeA3_readHead
+Compilation succeeded
+readHead passed
+Compiling and linking gradeA3_pop
+Found gradeA3_pop
+Compilation succeeded
+pop passed
+pop passed
+Compiling and linking gradeA3_next
+Found gradeA3_next
+Compilation succeeded
+next passed
+Compiling and linking gradeA3_isEmpty
+Found gradeA3_isEmpty
+Compilation succeeded
+isEmpty passed
+Compiling and linking gradeA3_freeList
+Found gradeA3_freeList
+Compilation succeeded
+freeList passed
+freeList passed
+Compiling and linking gradeA3_readItem
+Found gradeA3_readItem
+Compilation succeeded
+readItem passed
+Compiling and linking gradeA3_appendItem
+Found gradeA3_appendItem
+Compilation succeeded
+appendItem passed
+Compiling and linking gradeA3_insertItem
+Found gradeA3_insertItem
+Compilation succeeded
+insertItem passed
+insertItem passed
+Compiling and linking gradeA3_prependItem
+Found gradeA3_prependItem
+Compilation succeeded
+prependItem passed
+Compiling and linking gradeA3_deleteItem
+Found gradeA3_deleteItem
+Compilation succeeded
+deleteItem passed
+Compiling and linking gradeA3_findItem
+Found gradeA3_findItem
+Compilation succeeded
+findItem passed
+findItem passed
+findItem passed
+findItem passed
+findItem passed
+Found makefile
+Correct options
+Comments
+Indentation levels are: ['', '    ', '        ', '            ', '                ']

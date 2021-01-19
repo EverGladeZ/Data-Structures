@@ -1,0 +1,22 @@
+ 1                               buildidx nb.khs 3383: 1
+ 2                               buildidx nb.vhs 1274: 1
+ 3                               buildidx nb.khs 3384: 1
+ 4                               buildidx nb.vhs 2559: 1
+ 5                               buildidx tb.khs 8661: 1
+ 6                               buildidx tb.vhs 1152: 1
+ 7                               buildidx tp.khs 8102: 1
+ 8                                buildidx bp.vhs 294: 1
+ 9                            key2val nb.kv nm0000102: 1
+10                            key2val tb.kv tt0100814: 1
+11                         val2key nb.kv 'Demi Moore': 1
+12                     val2key tb.kv 'A Few Good Men': 1
+13                             actors Tremors = Gross: 1
+14                              actors Tremors = Ward: 1
+15                             bacon1 'Michael Gross': 1
+16                               bacon1 'Steve Golin': 1
+17                                    makefile exists: 1
+18                         incorrect makefile options: 0
+19                                  code has comments: 1
+20                                   code is indented: 1
+========================================================
+Total:                                             19/20

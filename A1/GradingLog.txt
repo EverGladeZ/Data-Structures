@@ -1,0 +1,43 @@
+Found bandb.c
+Compiling
+Found bandb.o
+Compilation succeeded
+Compiling and linking grade_getbytes
+Found grade_getbytes
+Compilation succeeded
+getbytes - copy first 8 characters passed
+getbytes - reverse first 8 characters passed
+getbytes - reverse 9 characters passed
+Compiling and linking grade_getbits
+Found grade_getbits
+Compilation succeeded
+getbits - get 8 bits from char passed
+getbits - get 5 bits from char passed
+getbits - get 16 bits crossing byte boundary passed
+Compiling and linking grade_bits2ull
+Found grade_bits2ull
+Compilation succeeded
+bits2ull("11010010") passed
+bits2ull( 64 1s ) passed
+bits2ull( 64 0s ) passed
+Compiling and linking grade_bits2ll
+Found grade_bits2ll
+Compilation succeeded
+bits2ll("11010010") passed
+bits2ll( 64 1s ) passed
+bits2ll( 64 0s ) passed
+Compiling and linking grade_spff
+Found grade_spff
+Compilation succeeded
+spff(0.15625) passed
+spff(-12.5) passed
+Compiling and linking grade_dpff
+Found grade_dpff
+Compilation succeeded
+dpff(0.15625) passed
+dpff(-12.1) passed
+Found makefile
+Correct options
+Comments
+Indentation levels are: ['', '    ', '        ', '           ', '            ']
+Assignment submitted at: Tue Sep 22 18:53:26 2020
