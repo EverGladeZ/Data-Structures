@@ -1,6 +1,6 @@
 Data Structures Assignments done during the Fall 2020 Semester in C
 ------------------------------------------------------------------------
- A1: Bit Manipulation
+ A1: Bit Manipulation\
  A2: Arrays\
  A3: Linked Lists\
  A4: Trees\
